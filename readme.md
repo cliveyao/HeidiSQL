@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/languages/top/HeidiSQL/HeidiSQL.svg?style=flat)
 ![](https://img.shields.io/github/languages/code-size/HeidiSQL/HeidiSQL.svg?style=flat)
 
-# HeidiSQL
+# DELPHI Study HeidiSQL
 HeidiSQL is a graphical interface for managing [MariaDB](http://www.mariadb.org/) or [MySQL](http://www.mysql.com/) servers, [Microsoft SQL databases](http://www.microsoft.com/sql/), [PostgreSQL](http://www.postgresql.org/) or [SQLite](https://www.sqlite.org/). "Heidi" lets you browse and edit data, create and edit tables, views, procedures, triggers and scheduled events. Also, you can export structure and data, either to SQL file, clipboard or to other servers. Read about [features](https://www.heidisql.com/#featurelist) or see some [screenshots](https://www.heidisql.com/screenshots.php). 
 
 # Need help?
